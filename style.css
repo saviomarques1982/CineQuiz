@@ -1,0 +1,51 @@
+@charset "UTF-8";
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+	background-color: #353541; /* Cor de fundo cinza */
+}
+
+#game-container {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#movie-image {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+#options-container {
+    margin-top: 20px;
+}
+
+.option-button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #0074D9; /* Cor azul */
+    color: #fff; /* Cor do texto */
+    border-radius: 50px; /* Cantos arredondados */
+    border: none; /* Remover borda padrão */
+}
+
+.option-button:hover {
+    background-color: #0056b3; /* Cor azul mais escura ao passar o mouse */
+}
+
+@media (max-width: 600px) {
+    .option-button {
+        font-size: 16px;
+        padding: 8px 16px;
+        margin: 3px;
+    }
+}
