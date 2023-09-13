@@ -143,7 +143,7 @@ const gameData = [
 	{
         imageSrc: 'images/30_It.png',
         options: ['Halloween', 'A Hora do Pesadelo', 'It: A Coisa', 'Colheita Maldita'],
-        correctAnswerIndex: 3
+        correctAnswerIndex: 2
     },
 	{
         imageSrc: 'images/31_BelezaAmericana.png',
@@ -197,12 +197,12 @@ const gameData = [
     },
 	{
         imageSrc: 'images/41_Matrix_1.png',
-        options: ['Inception', 'Matrix', 'A Rede Social', 'Elysium'],
+        options: ['Amnésia', 'Matrix', 'A Rede Social', 'O Chamado'],
         correctAnswerIndex: 1
     },
 	{
         imageSrc: 'images/42_MonstrosSA.png',
-        options: ['Monstros S.A.', 'O Olho que Tudo Vê', 'De Olhos Bem Fechados', 'Não Olhe para Cima'],
+        options: ['Monstros S.A.', 'O Olho que Tudo Vê', 'Múmia', 'Não Olhe para Cima'],
         correctAnswerIndex: 0
     },
 	{
