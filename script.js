@@ -133,7 +133,7 @@ const gameData = [
 	{
         imageSrc: 'images/28_LittleMissSunshine.png',
         options: ['Yesterday', 'Capitão Fantástico', 'Little Miss Sunshine', 'Blue Jasmine'],
-        correctAnswerIndex: 0
+        correctAnswerIndex: 2
     },
 	{
         imageSrc: 'images/29_SenhordosAneis.png',
