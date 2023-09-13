@@ -88,7 +88,7 @@ const gameData = [
 	{
         imageSrc: 'images/18_LaranjaMecanica.png',
         options: ['Kids', 'Trainspotting', 'Laranja Mecância', 'O Iluminado'],
-        correctAnswerIndex: 0
+        correctAnswerIndex: 2
     },
 	{
         imageSrc: 'images/19_AViagemdeChihiro.png',
