@@ -72,7 +72,7 @@ const gameData = [
     },
 	{
         imageSrc: 'images/15_PulpFiction.png',
-        options: ['Pulp Fiction', 'It', 'Amores Brutos', 'Cães de Aluguel'],
+        options: ['Pulp Fiction', 'It', '50 Tons de Cinza', 'Cães de Aluguel'],
         correctAnswerIndex: 0
     },
 	{
