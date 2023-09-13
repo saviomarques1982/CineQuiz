@@ -233,7 +233,7 @@ const gameData = [
 	{
         imageSrc: 'images/48_Psicose.png',
         options: ['Pássaros', 'O Exorcista', 'Psicose', 'O Chamado'],
-        correctAnswerIndex: 3
+        correctAnswerIndex: 2
     },
 	{
         imageSrc: 'images/49_Tubarao.png',
@@ -258,7 +258,7 @@ const gameData = [
 	{
         imageSrc: 'images/54_Robocop2.png',
         options: ['007', 'Missão Impossível', 'Robocop', 'Em nome da Rosa'],
-        correctAnswerIndex: 1
+        correctAnswerIndex: 2
     },
 	
     // Adicione mais entradas para mais imagens e perguntas
