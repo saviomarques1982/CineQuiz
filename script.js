@@ -121,142 +121,142 @@ const gameData = [
         correctAnswerIndex: 1
     },
 	{
-        imageSrc: '25_UmdiadeFuria.png',
+        imageSrc: 'images/25_UmdiadeFuria.png',
         options: ['Um dia de Fúria', 'Dia de Treinamento', 'Um dia de Cão ', 'O Dia Depois de Amanhã'],
         correctAnswerIndex: 0
     },
 	{
-        imageSrc: '26_JogosVorazes_1.png',
+        imageSrc: 'images/26_JogosVorazes_1.png',
         options: ['Jogos Mortais', 'Jogos Vorazes', 'A Fantástica Fábrica de Chocolate', 'Sexta-Feira 13'],
         correctAnswerIndex: 1
     },
 	{
-        imageSrc: '28_LittleMissSunshine.png',
+        imageSrc: 'images/28_LittleMissSunshine.png',
         options: ['Yesterday', 'Capitão Fantástico', 'Little Miss Sunshine', 'Blue Jasmine'],
         correctAnswerIndex: 0
     },
 	{
-        imageSrc: '29_SenhordosAneis.png',
+        imageSrc: 'images/29_SenhordosAneis.png',
         options: ['Hobbit', 'O Senhor dos Anéis', 'As Crônicas de Nárnia', 'A Lenda de Beowulf'],
         correctAnswerIndex: 1
     },
 	{
-        imageSrc: '30_It.png',
+        imageSrc: 'images/30_It.png',
         options: ['Halloween', 'A Hora do Pesadelo', 'It: A Coisa', 'Colheita Maldita'],
         correctAnswerIndex: 3
     },
 	{
-        imageSrc: '31_BelezaAmericana.png',
+        imageSrc: 'images/31_BelezaAmericana.png',
         options: ['Beleza Americana', 'Psicopata Americano', 'Snatch - Porcos e Diamantes', 'O Caçador de Pipas'],
         correctAnswerIndex: 0
     },
 	{
-        imageSrc: '32_Drive.png',
+        imageSrc: 'images/32_Drive.png',
         options: ['O abutre', 'O Corvo', 'Drive', 'Era Uma vez em Hollywood'],
         correctAnswerIndex: 2
     },
 	{
-        imageSrc: '33_HarryPotter.png',
+        imageSrc: 'images/33_HarryPotter.png',
         options: ['Percy Jackson e o Ladrão de Raios', 'A Bússola de Ouro', 'Harry Potter', 'Malévola'],
         correctAnswerIndex: 2
     },
 	{
-        imageSrc: '34_TaxiDriver.png',
+        imageSrc: 'images/34_TaxiDriver.png',
         options: ['Infiltrados', 'Fargo', 'Um Estranho no Ninho', 'Taxi Driver'],
         correctAnswerIndex: 3
     },
 	{
-        imageSrc: '35_Titanic.png',
+        imageSrc: 'images/35_Titanic.png',
         options: ['Titanic', 'Romeu e Julieta', 'Avatar', 'Razão e Sensibilidade'],
         correctAnswerIndex: 0
     },
 	{
-        imageSrc: '36_Corra.png',
+        imageSrc: 'images/36_Corra.png',
         options: ['Nós', 'Não! Não Olhe!', 'Corra', 'Hereditário'],
         correctAnswerIndex: 2
     },
 	{
-        imageSrc: '37_MeuPrimeiroAmor.png',
+        imageSrc: 'images/37_MeuPrimeiroAmor.png',
         options: ['Bee Movie', 'Meu Primeiro Amor', 'Gatinhas & Gatões', 'Extraordinário'],
         correctAnswerIndex: 1
     },
 	{
-        imageSrc: '38_Robocop.png',
+        imageSrc: 'images/38_Robocop.png',
         options: ['Exterminador do Futuro', 'Eu, Robô', 'Robocop', 'O Vingador do Futuro'],
         correctAnswerIndex: 2
     },
 	{
-        imageSrc: '39_Barbie.png',
+        imageSrc: 'images/39_Barbie.png',
         options: ['Barbie', 'Tinker Bell', 'As Patricinhas de Beverly Hills', 'Lady Bird'],
         correctAnswerIndex: 0
     },
 	{
-        imageSrc: '40_ForrestGump.png',
+        imageSrc: 'images/40_ForrestGump.png',
         options: ['Rain Main', 'O Terminal', 'Big Fish', 'Forrest Gump'],
         correctAnswerIndex: 3
     },
 	{
-        imageSrc: '41_Matrix_1.png',
+        imageSrc: 'images/41_Matrix_1.png',
         options: ['Inception', 'Matrix', 'A Rede Social', 'Elysium'],
         correctAnswerIndex: 1
     },
 	{
-        imageSrc: '42_MonstrosSA.png',
+        imageSrc: 'images/42_MonstrosSA.png',
         options: ['Monstros S.A.', 'O Olho que Tudo Vê', 'De Olhos Bem Fechados', 'Não Olhe para Cima'],
         correctAnswerIndex: 0
     },
 	{
-        imageSrc: '43_Alien.png',
+        imageSrc: 'images/43_Alien.png',
         options: ['Predador', 'E.T.: O Extraterrestre', 'Contatos Imediatos', 'Alien'],
         correctAnswerIndex: 3
     },
 	{
-        imageSrc: '44_AssassinosPorNatureza.png',
+        imageSrc: 'images/44_AssassinosPorNatureza.png',
         options: ['O Iluminado', 'Her', 'Assassinos por Natureza', 'Um Drink no Inferno'],
         correctAnswerIndex: 2
     },
 	{
-        imageSrc: '45_Coringa.png',
+        imageSrc: 'images/45_Coringa.png',
         options: ['Esquadrão Suicida', 'Coringa', 'A Fantástica Fábrica de Chocolate', 'O Palhaço'],
         correctAnswerIndex: 1
     },
 	{
-        imageSrc: '46_Trainspotting.png',
+        imageSrc: 'images/46_Trainspotting.png',
         options: ['Trainspotting', 'Diário de um Adolescente', 'Réquiem Para um Sonho', 'Eu, Cristiane F.'],
         correctAnswerIndex: 0
     },
 	{
-        imageSrc: '47_Rocky.png',
+        imageSrc: 'images/47_Rocky.png',
         options: ['Creed', 'Touro Indomável', 'Rocky', 'Ali'],
         correctAnswerIndex: 2
     },
 	{
-        imageSrc: '48_Psicose.png',
+        imageSrc: 'images/48_Psicose.png',
         options: ['Pássaros', 'O Exorcista', 'Psicose', 'O Chamado'],
         correctAnswerIndex: 3
     },
 	{
-        imageSrc: '49_Tubarao.png',
+        imageSrc: 'images/49_Tubarao.png',
         options: ['Mar Adentro', 'Mar em Fúria', 'Tubarão', 'Mares Sangrentos'],
         correctAnswerIndex: 2
     },
 	{
-        imageSrc: '50_aVidaAquaticadeSteveZissou.png',
+        imageSrc: 'images/50_aVidaAquaticadeSteveZissou.png',
         options: ['A Vida Marinha com Steve Zissou', '(500) Dias com Ela', 'Lost in Translation', 'Os Excêntricos Tenenbaums'],
         correctAnswerIndex: 0
     },
 	{
-        imageSrc: '51_OndeosFracosNaoTemVez.png',
+        imageSrc: 'images/51_OndeosFracosNaoTemVez.png',
         options: ['O Grande Lebowski', 'Onde os Fracos Não Têm Vez', 'Queime Depois de Ler', 'Bravura Indômita'],
         correctAnswerIndex: 1
     },
 	{
-        imageSrc: '53_JogosVorazes_2.png',
+        imageSrc: 'images/53_JogosVorazes_2.png',
         options: ['As Crônicas de Nárnia', 'Jogos Vorazes', 'Perfume de Mulher', 'Uma linda Mulher'],
         correctAnswerIndex: 1
     },
 	{
-        imageSrc: '54_Robocop2.png',
+        imageSrc: 'images/54_Robocop2.png',
         options: ['007', 'Missão Impossível', 'Robocop', 'Em nome da Rosa'],
         correctAnswerIndex: 1
     },
